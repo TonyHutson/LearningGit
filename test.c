@@ -2,6 +2,7 @@
 
 // Testing merge by adding a comment
 // another line to test
+// Test again
 int add(int x, int y){
 	return x+y;
 }
