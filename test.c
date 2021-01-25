@@ -11,7 +11,9 @@ int sub(int num1, int num2){
 int mul(int num1, int num2){
 	return num1*num2;
 }
+
 // added a comment
+// and another comment
 int div(int num1, int num2){
 	return num1/num2;
 }
