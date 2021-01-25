@@ -4,6 +4,10 @@ int add(int x, int y){
 	return x+y;
 }
 
+int sub(int num1, int num2){
+	return num1-num2;
+}
+
 int main(void){
 	printf("Hellow world!\n");
 	int num1, num2;
