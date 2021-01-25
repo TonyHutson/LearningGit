@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 // Testing merge by adding a comment
+// another line to test
 int add(int x, int y){
 	return x+y;
 }
