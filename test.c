@@ -39,12 +39,13 @@ int main(void){
 	int answer=0;
 	if (selection==1){
 		answer=num1-num2;
+		 printf("\n\n %d - %d = %d\n", num1, num2, answer);
 	}
 	else if (selection==2){
 		answer=num1+num2;
+		 printf("\n\n %d + %d = %d\n", num1, num2, answer);
 	}
 
-	printf("\n\n %d + %d = %d\n", num1, num2, answer);
 
 
 	return 0;
