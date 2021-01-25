@@ -3,5 +3,6 @@
 
 void bar(void){
 	printf("Bar!\n");
+	printf("What a wonderful world!\n");
 }
 
