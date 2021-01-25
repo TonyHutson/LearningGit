@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "foo.h"
+#include "bar.h"
 
 // Testing merge by adding a comment
 // another line to test
@@ -25,6 +26,7 @@ int div(int num1, int num2){
 
 int main(void){
 	foo();
+	bar();
 	printf("Hellow world!\n");
 	int num1, num2;
 	num1=0;
